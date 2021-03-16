@@ -9,8 +9,8 @@ Chembl.ipynb - get a SMILES.
 get_act.ipynb - get a activities.
 
 ### Data
-sorted.csv - needed columns on DataFrame (on request)
+sorted.csv - needed columns on DataFrame (on request).
 
 df_train - first 100 fluorinated compounds with their characteristics.
 
-activity_train.csv - activity of first 100 compounds and their analog
+activity_train.csv - activity of first 100 compounds and their analog.
