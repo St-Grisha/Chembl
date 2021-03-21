@@ -3,7 +3,7 @@ Chembl
 Database activity fluorinated compounds and their hydrogenous analogs
 ------
 
-Original csv.file is too big.
+Original csv-file is too big.
 ***
 ## Jupyter Notebook files
 **Chembl.ipynb** - get a SMILES.
