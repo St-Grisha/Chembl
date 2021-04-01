@@ -12,7 +12,9 @@ Original csv-file is too big.
 
 **get_act.ipynb** - get an activities.
 
-**get_act_to_dirty.ipynb** - get an activities to data from **dirty_Chembl.ipynb**
+**get_act_to_dirty.ipynb** - get an activities to data from **dirty_Chembl.ipynb**.
+
+**Visualisation.ipynb** - plots for values IC50
 
 ***
 ## Data
