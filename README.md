@@ -28,5 +28,8 @@ Original csv-file is too big.
 
 **activity_F_66300.csv** - activity of all fluorinated compounds which has analogs
 
----
-#### Summary tables with activities will be added soon
+**total_IC50.csv** - IC50 values to all fluorinated compounds and their hydrogenous analogs
+
+***
+## Plots
+### Some plots for visualization of this Data
